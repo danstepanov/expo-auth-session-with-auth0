@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "persistent-auth-with-mobx",
-    "slug": "persistent-auth-with-mobx",
+    "name": "auth-session-with-auth0",
+    "slug": "auth-session-with-auth0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
